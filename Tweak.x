@@ -1,3 +1,4 @@
+
 #include <iostream>
 
 // Ek generic function jo standard output deta hai
